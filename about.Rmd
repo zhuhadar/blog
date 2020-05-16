@@ -1,0 +1,20 @@
+---
+title: "About"
+description: |
+  Some personal thoughts on COVID-19. 
+---
+
+Hello world! I am Mike Porter, an Associate Professor in the [School of Data Science](https://datascience.virginia.edu/) and the [Department of Engineering Systems and Environment](https://engineering.virginia.edu/departments/engineering-systems-and-environment) at the [University of Virginia](https://www.virginia.edu/). 
+This blog contains a collections of short articles on data, models, and investigations related to the COVID-19 pandemic. 
+
+You can find out more about me from my various on-line identities
+
+<ul class="fa-ul">
+  <li><i class="fa-li fas fa-university"></i><a href="https://faculty.virginia.edu/mdporter">Academic Webpage</a></li>
+  <li><i class="fa-li fa fa-github"></i><a href="https://github.com/mdporter">GitHub</a></li>
+  <li><i class="fa-li fab fa-linkedin"></i><a href="http://www.linkedin.com/in/michael-d-porter-5569477a">LinkedIn</a></li>
+  <li><i class="ai ai-google-scholar-square"></i><a href="https://scholar.google.com/citations?user=pbOK99MAAAAJ&hl=en">Google Scholar</a></li>
+  <li><i class="fa-li fab fa-orcid"></i><a href="https://orcid.org/0000-0001-9316-3578">ORCID</a></li>
+  <li></li>
+</ul>
+

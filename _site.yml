@@ -1,0 +1,21 @@
+name: "COVID Blog"
+title: "Data Science, Statistics, and COVID-19"
+description: |
+  Understanding COVID-19 with Data Science and Statistics
+output_dir: "docs"
+exclude: ["README.html"]
+navbar:
+  logo:
+    image: images/mdp-head.jpg
+    href: https://faculty.virginia.edu/mdporter/
+  right:
+    - text: "Home"
+      href: index.html
+#    - text: "Dashboard"
+#      href: dashboard.html      
+    - text: "About"
+      href: about.html
+    - icon: fab fa-github
+      href: https://github.com/mdporter/blog      
+output: distill::distill_article
+

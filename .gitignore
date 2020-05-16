@@ -28,8 +28,5 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
-# github pages site (don't change compiled)
-docs/
-
 # Other
 _todo.Rmd

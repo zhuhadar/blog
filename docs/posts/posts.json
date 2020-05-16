@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2020-05-12-to-sir-with-love/",
+    "title": "To SIR, with Love",
+    "description": "A brief introduction to the SIR model and what is tells us about the spread of COVID-19.",
+    "author": [
+      {
+        "name": "Michael D. Porter",
+        "url": "https://faculty.virginia.edu/mdporter/"
+      }
+    ],
+    "date": "2020-05-12",
+    "categories": [],
+    "preview": "posts/2020-05-12-to-sir-with-love/to-sir-with-love_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2020-05-16T15:07:50-04:00",
+    "preview_width": 576,
+    "preview_height": 96
+  }
+]
